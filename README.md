@@ -1,5 +1,6 @@
 # German-Traffic-Sign-Recognition-Benchmark
 
+**Dataset:** https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 * Single-image, multi-class classification problem <br>
 * Dataset consists of traffic sign images <br>
 * 43 classes, labeled from 0 - 42 <br>
