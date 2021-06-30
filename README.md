@@ -10,3 +10,4 @@
 **Model:** ResNet9 <br>
 **Techniques used:** Data Normalization, Batch Normalization, Data Augmentation, Residual Connections, Gradient Clipping, Weight Decay, Dropout, One Cycle Learning Rate Policy, etc.
  
+**Libraries:** Pandas, Matplotlib, PyTorch
